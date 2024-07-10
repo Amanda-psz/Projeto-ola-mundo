@@ -1,4 +1,4 @@
-import styles from "./Post.module.css";
+import styles from './PostModelo.module.css';
 
 export default function PostModelo({ children, fotoCapa, titulo }) {
     return (
